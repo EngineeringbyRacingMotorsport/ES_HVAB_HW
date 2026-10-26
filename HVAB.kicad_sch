@@ -6095,16 +6095,6 @@
 		)
 		(uuid "3d38e1b3-dae1-47d7-903e-17ecdf8a987a")
 	)
-	(text "CANVUAR ELS CONNECTORS (S'HAN DE TROBAR UNS DE HV)\nMIRAR SI PROTECCIO DE SORTIDES POSAR PTC (R13, R18)\nMIRAR QUINA POTENCIA S'HA DE POSAR PER RESITENCIES AMB LEDS A A LIMETACIO O SI POSAR UN ZENER"
-		(exclude_from_sim no)
-		(at 355.092 179.578 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "3dee3867-530f-4247-b6ae-fb2fd60f215f")
-	)
 	(text "CAN connector"
 		(exclude_from_sim no)
 		(at 323.342 139.954 0)
